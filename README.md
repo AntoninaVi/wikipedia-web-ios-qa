@@ -18,3 +18,24 @@ Main areas:
 - Network testing
 - Localization
 - Bug reporting
+
+## Test Documentation
+
+### General
+- [Test Scope](docs/scope.md)
+- [Risk Analysis](docs/risk-analysis.md)
+- [Test Environment](docs/test-environment.md)
+- [Test Summary](docs/test-summary.md)
+
+### Web
+- [Checklist](web/checklist.md)
+- [Test Cases](web/test-cases.md)
+- [Exploratory Testing](web/exploratory.md)
+
+### iOS
+- [Checklist](ios/checklist.md)
+- [Test Cases](ios/test-cases.md)
+- [Exploratory Testing](ios/exploratory.md)
+
+### Defects
+- [Bug Reports](bug-reports/README.md)
